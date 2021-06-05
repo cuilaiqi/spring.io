@@ -1,0 +1,44 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("https://cdn.pixabay.com/photo/2016/09/05/15/03/candle-1646765_1280.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
+    -moz-background-size: cover;    /* 针对Firefox浏览器 */
+    -o-background-size: cover;      /* 针对Operallq */
+    background-size: cover;         /* 通用 */
+}
+.tt{
+    font-size: 30px;
+}
+.nn{
+    font-size: 20px;
+}
+.content{
+    font-size: 15px;
+}
+.content1{
+    font-size: 10px;
+}
+#lianjie1{
+    margin-top: 80px ;
+}
+.ddd{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.hh1{
+    font-size: 20px;
+    margin-left: 30px;
+    width: 145px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.hh2{
+    font-size: 30px;
+}
